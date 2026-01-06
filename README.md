@@ -1,2 +1,2 @@
 # cnv_cba
-CBA project pipeline for detecting CNVs and classifying them
+Computational Biology Asia (CBA) project pipeline for detecting Copy Number Variants (CNVs) and their classification
